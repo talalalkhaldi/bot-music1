@@ -1,0 +1,6 @@
+﻿token=NTk1NDg5MTUwOTA4NzYwMDY1.XRrukA.go9MgmgAQtYcFHu7NVrbQM03O6Q 
+owner=561427702645653526 
+prefix=li
+game=Swap.
+stayinchannel=true
+songinstatus=true 
